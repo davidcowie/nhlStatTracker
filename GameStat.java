@@ -33,6 +33,7 @@ public class GameStat implements Serializable {
     }
 
 
+    // this was a test for the formatting of the output file in main.java
     public static void main(String[] arg){
         String a = "zetterburg";
         String b = "danced";
